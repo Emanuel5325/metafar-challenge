@@ -1,0 +1,6 @@
+@metafar.challenge_HostAddress = http://localhost:5238
+
+GET {{metafar.challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
